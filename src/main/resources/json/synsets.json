@@ -1,0 +1,551 @@
+{
+    "name": "Synsets",
+    "id": 1,
+    "subSets": [
+        {
+            "name": "Ereignisse",
+            "id": 2,
+            "subSets": [
+                {
+                    "name": "Absicht /Pläne",
+                    "id": 3,
+                    "subSets": []
+                },
+                {
+                    "name": "Feststellung",
+                    "id": 4,
+                    "subSets": []
+                },
+                {
+                    "name": "erhaltene Antworten",
+                    "id": 5,
+                    "subSets": [{
+                        "name": "Antwort auf Bitte um Erlaubnis",
+                        "id": 6,
+                        "subSets": []
+                    }]
+                },
+                {
+                    "name": "man kann etwas / man darf etwas (oder auch nicht)",
+                    "id": 7,
+                    "subSets": [{
+                        "name": "man darf etwas",
+                        "id": 8,
+                        "subSets": []
+                    }]
+                },
+                {
+                    "name": "zeitlich",
+                    "id": 9,
+                    "subSets": [
+                        {
+                            "name": "unter Druck",
+                            "id": 10,
+                            "subSets": []
+                        },
+                        {
+                            "name": "rechtzeitig",
+                            "id": 11,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Zeitpunkt eintreten",
+                            "id": 12,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Zeitpunkt einhalten",
+                            "id": 13,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Zeitpunkt setzen",
+                            "id": 14,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Verzögerung",
+                            "id": 15,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Zweifel haben",
+                            "id": 16,
+                            "subSets": []
+                        },
+                        {
+                            "name": "keine Zweifel haben",
+                            "id": 17,
+                            "subSets": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Funktionen",
+            "id": 18,
+            "subSets": [
+                {
+                    "name": "etwas mit Daten/Formularen machen",
+                    "id": 19,
+                    "subSets": [
+                        {
+                            "name": "Daten erhalten / sammeln",
+                            "id": 20,
+                            "subSets": []
+                        },
+                        {
+                            "name": "etwas herbei schaffen",
+                            "id": 21,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Daten ansehen",
+                            "id": 22,
+                            "subSets": []
+                        },
+                        {
+                            "name": "genau prüfen, genau untersuchen",
+                            "id": 23,
+                            "subSets": []
+                        },
+                        {
+                            "name": "2 oder mehrere Sachen zusammenfügen",
+                            "id": 24,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Dokumentation von etwas",
+                            "id": 26,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Informationen erfragen",
+                            "id": 27,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Genehmigung / Versagung (z. B. Anträgen)",
+                            "id": 28,
+                            "subSets": [
+                                {
+                                    "name": "Genehmigung / Zustimmung",
+                                    "id": 29,
+                                    "subSets": [
+                                        {
+                                            "name": "neutral",
+                                            "id": 30,
+                                            "subSets": []
+                                        },
+                                        {
+                                            "name": "stark zustimmen",
+                                            "id": 31,
+                                            "subSets": []
+                                        },
+                                        {
+                                            "name": "billigen",
+                                            "id": 32,
+                                            "subSets": []
+                                        },
+                                        {
+                                            "name": "gerichtlich",
+                                            "id": 33,
+                                            "subSets": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Ablehnung",
+                                    "id": 34,
+                                    "subSets": []
+                                },
+                                {
+                                    "name": "Verbot",
+                                    "id": 35,
+                                    "subSets": []
+                                },
+                                {
+                                    "name": "Aberkennung / etwas wegnehmen / nicht mehr geltend machen",
+                                    "id": 36,
+                                    "subSets": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "etwas rückgängig machen",
+                            "id": 37,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Dokumente / Daten jemanden zukommen lassen",
+                            "id": 38,
+                            "subSets": []
+                        },
+                        {
+                            "name": "aussortieren / ausmustern",
+                            "id": 39,
+                            "subSets": []
+                        },
+                        {
+                            "name": "verändern / abändern",
+                            "id": 40,
+                            "subSets": []
+                        },
+                        {
+                            "name": "auf den neusten Stand bringen / aktuell halten",
+                            "id": 41,
+                            "subSets": []
+                        },
+                        {
+                            "name": "anders als erwartet / verschieden / unterscheiden",
+                            "id": 42,
+                            "subSets": []
+                        },
+                        {
+                            "name": "strukturieren / ordnen",
+                            "id": 43,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Ausgangszustand wiederherstellen",
+                            "id": 44,
+                            "subSets": []
+                        },
+                        {
+                            "name": "speichern / aufbewahren",
+                            "id": 45,
+                            "subSets": []
+                        },
+                        {
+                            "name": "neu anlegen",
+                            "id": 25,
+                            "subSets": []
+                        }
+                    ]
+                },
+                {
+                    "name": "etwas mit Personen machen",
+                    "id": 46,
+                    "subSets": [
+                        {
+                            "name": "nicht willkommen",
+                            "id": 47,
+                            "subSets": []
+                        },
+                        {
+                            "name": "überanstrengen durch Arbeit",
+                            "id": 48,
+                            "subSets": []
+                        },
+                        {
+                            "name": "informieren",
+                            "id": 49,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Mut machen",
+                            "id": 50,
+                            "subSets": []
+                        },
+                        {
+                            "name": "verhaldeln",
+                            "id": 51,
+                            "subSets": []
+                        },
+                        {
+                            "name": "mit einer Frage an jemanden wenden",
+                            "id": 52,
+                            "subSets": []
+                        },
+                        {
+                            "name": "nach Informationen fragen",
+                            "id": 53,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Werben für Kunden",
+                            "id": 54,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Werben (militärisch)",
+                            "id": 55,
+                            "subSets": []
+                        }
+                    ]
+                },
+                {
+                    "name": "etwas mit physischen Objekten (keine Daten, keine Personen) machen",
+                    "id": 56,
+                    "subSets": [
+                        {
+                            "name": "medizinisch",
+                            "id": 57,
+                            "subSets": [
+                                {
+                                    "name": "durch Eindrücken in eine weiche Masse nachbilden",
+                                    "id": 58,
+                                    "subSets": []
+                                },
+                                {
+                                    "name": "etwas so drücken, dass der Zustrom von etwas gehemmt wird; abpressen",
+                                    "id": 59,
+                                    "subSets": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "von einer Klemme lösen",
+                            "id": 60,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Sachen im Besitz behalten",
+                            "id": 61,
+                            "subSets": []
+                        },
+                        {
+                            "name": "in Betrieb nehmen",
+                            "id": 62,
+                            "subSets": []
+                        },
+                        {
+                            "name": "außer Betrieb nehmen",
+                            "id": 63,
+                            "subSets": [
+                                {
+                                    "name": "Betrieb unterbrechen",
+                                    "id": 64,
+                                    "subSets": []
+                                },
+                                {
+                                    "name": "endgültig außer Betrieb nehmen",
+                                    "id": 65,
+                                    "subSets": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ortswechsel durchführen",
+                            "id": 66,
+                            "subSets": [
+                                {
+                                    "name": "exportieren",
+                                    "id": 67,
+                                    "subSets": []
+                                },
+                                {
+                                    "name": "importieren",
+                                    "id": 68,
+                                    "subSets": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "schließen / geschlossen lassen",
+                            "id": 69,
+                            "subSets": []
+                        },
+                        {
+                            "name": "physisches Objekt wegnehmen",
+                            "id": 70,
+                            "subSets": []
+                        },
+                        {
+                            "name": "ändern / anders werden",
+                            "id": 71,
+                            "subSets": [
+                                {
+                                    "name": "entfernen / zerstören / wegnehmen",
+                                    "id": 72,
+                                    "subSets": []
+                                },
+                                {
+                                    "name": "hinzufügen / aufbauen / neumachen",
+                                    "id": 73,
+                                    "subSets": []
+                                },
+                                {
+                                    "name": "zum Ausgangszustand bringen",
+                                    "id": 74,
+                                    "subSets": []
+                                },
+                                {
+                                    "name": "erneuern",
+                                    "id": 75,
+                                    "subSets": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "zur Verfügung stellen / anbieten",
+                            "id": 76,
+                            "subSets": []
+                        },
+                        {
+                            "name": "zum Verkauf anbieten",
+                            "id": 77,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Kaufen",
+                            "id": 78,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Verkaufen",
+                            "id": 79,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Handeln",
+                            "id": 80,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Preis senken",
+                            "id": 81,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Quittung / Rechnung geben",
+                            "id": 82,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Werben",
+                            "id": 83,
+                            "subSets": []
+                        },
+                        {
+                            "name": "bezahlen",
+                            "id": 84,
+                            "subSets": [
+                                {
+                                    "name": "direkt bezahlen, volle Summe",
+                                    "id": 85,
+                                    "subSets": []
+                                },
+                                {
+                                    "name": "zustehende Summe auszahlen",
+                                    "id": 86,
+                                    "subSets": []
+                                },
+                                {
+                                    "name": "in Teilbeträge",
+                                    "id": 87,
+                                    "subSets": []
+                                },
+                                {
+                                    "name": "Summe nachträglich zahlen",
+                                    "id": 88,
+                                    "subSets": []
+                                },
+                                {
+                                    "name": "Teilsumme vorher bezahlen",
+                                    "id": 89,
+                                    "subSets": []
+                                },
+                                {
+                                    "name": "Entschädigung zahlen",
+                                    "id": 90,
+                                    "subSets": []
+                                },
+                                {
+                                    "name": "Geld hinzufügen",
+                                    "id": 91,
+                                    "subSets": []
+                                },
+                                {
+                                    "name": "für jemand anderen bezahlen",
+                                    "id": 92,
+                                    "subSets": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "etwas mit dem Konto machen",
+                            "id": 93,
+                            "subSets": []
+                        },
+                        {
+                            "name": "physische Dokumente anschaun",
+                            "id": 94,
+                            "subSets": []
+                        },
+                        {
+                            "name": "etwas mit einem Gebäude / Raum machen",
+                            "id": 95,
+                            "subSets": [{
+                                "name": "anschauen",
+                                "id": 96,
+                                "subSets": []
+                            }]
+                        }
+                    ]
+                },
+                {
+                    "name": "etwas mit etwas nicht-physischem machen (Zielen / Prinzipien / Entscheidungen / Prozesse etc.)",
+                    "id": 97,
+                    "subSets": [
+                        {
+                            "name": "Lehrgang, etwas im Werdegang",
+                            "id": 98,
+                            "subSets": []
+                        },
+                        {
+                            "name": "verwirklichen, realisieren (Vorhaben, Plan)",
+                            "id": 99,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Auftrag gemäß, vollziehen, erledigen",
+                            "id": 100,
+                            "subSets": []
+                        },
+                        {
+                            "name": "etwas in Einzelheiten ausarbeiten und vollenden",
+                            "id": 101,
+                            "subSets": []
+                        },
+                        {
+                            "name": "mündlich oder schriftlich erläutern",
+                            "id": 102,
+                            "subSets": []
+                        },
+                        {
+                            "name": "stattfinden lassen veranstalten (Sammlung / Zählung)",
+                            "id": 103,
+                            "subSets": []
+                        },
+                        {
+                            "name": "mit Nachdruck protestieren / zurückweisen",
+                            "id": 104,
+                            "subSets": []
+                        },
+                        {
+                            "name": "Zweifel haben",
+                            "id": 105,
+                            "subSets": []
+                        },
+                        {
+                            "name": "keine Zweifel haben",
+                            "id": 106,
+                            "subSets": []
+                        },
+                        {
+                            "name": "zeitliche Dauer beschrieben",
+                            "id": 107,
+                            "subSets": [{
+                                "name": "längere Zeit",
+                                "id": 108,
+                                "subSets": []
+                            }]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

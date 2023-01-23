@@ -1,0 +1,641 @@
+* Ereignisse
+	* Absicht /Pläne
+		{"synset":[],"v":"bestehen","ich":"Absicht"},
+	
+	
+	
+	* Feststellung
+		{"ich":null,"v":"abhängen","von+D":"Zufall","synset":[]},
+		{"ich":null,"v":"abhängen","von+D":null,"synset":[]},
+	
+	
+	
+	* erhaltene Antworten
+		** Antwort auf Bitte um Erlaubnis
+			{"synset":[],"dich":"Erlaubnis","v":"bekommen","ich":null},
+			{"ich":null,"dich":"Erlaubnis","v":"erhalten","zu+D":null,"synset":[]},
+	
+	
+	
+	* man kann etwas / man darf etwas (oder auch nicht)
+		** man darf etwas
+			{"synset":[],"dich":"Erlaubnis","v":"bekommen","ich":null},
+			{"ich":null,"dich":"Erlaubnis","v":"erhalten","zu+D":null,"synset":[]},
+	
+	* zeitlich
+		** unter Druck
+			{"synset":[],"unter+D":"Zeitdruck","v":"stehen","ich":null},
+			{"synset":[],"dich":"Zeitdruck","v":"haben","ich":null},
+			{"synset":[],"v":"eintreten","ich":"Fälligkeit"},
+		
+	
+		** rechtzeitig
+			{"synset":[],"wie":"zeitgenau","v":"sein","ich":null},
+			{"synset":[],"wie":"rechtzeitig","v":"sein","ich":null},
+				
+	
+		** Zeitpunkt eintreten
+			{"synset":[],"v":"eintreten","ich":"Zeitpunkt"},
+	
+			{"synset":[],"v":"eintreten","ich":"Fälligkeit"},
+	
+	
+		** Zeitpunkt einhalten
+			{"synset":[],"dich":"Bearbeitungszeitraum","v":"einhalten","ich":null},
+	
+			
+		** Zeitpunkt setzen
+			{"synset":[],"dich":"Zeitpunkt","v":"setzen","ich":null},
+	
+		** Verzögerung
+			{"synset":[],"v":"auftreten","ich":"Verzögerung"},
+			{"synset":[],"v":"eintreten","ich":"Verzögerung"},
+			{"synset":[],"v":"entstehen","ich":"Verzögerung"},
+	
+			{"synset":[],"v":"vorliegen","ich":"Verzögerung"},
+			{"synset":[],"dich":"Verzögerung","v":"geben","ich":"es"},
+			{"synset":[],"dich":null,"v":"verzögern","ich":null},
+			{"synset":[],"dich":"Verzögerung","v":"enthalten","ich":null},
+			{"synset":[],"wie":"verzögert","v":"sein","ich":null},
+	
+		
+		** Zweifel haben
+			{"synset":[],"wie":"zweifelhaft","v":"sein","ich":null},
+			{"synset":[],"wie":"unsicher","v":"sein","ich":null},
+	
+	
+		** keine Zweifel haben
+			{"synset":[],"wie":"unzweifelhaft","v":"sein","ich":null},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+* Funktionen	
+	* etwas mit Daten/Formularen machen
+	
+		** Daten erhalten / sammeln
+			{"synset":[],"dich":null,"v":"ablesen","von+D":null,"ich":null},
+			{"synset":[],"dich":null,"v":"auslesen","ich":null},
+	
+	
+		** etwas herbei schaffen
+			{"synset":[],"dich":null,"v":"akquirieren","ich":null},	
+	
+	
+		
+		** Daten ansehen
+			{"synset":[],"dich":null,"v":"ansehen","ich":null},
+			{"synset":[],"dich":null,"v":"anschauen","ich":null},
+			{"synset":[],"dich":null,"v":"betrachten","ich":null},
+			{"synset":[],"dich":null,"v":"durchsehen","ich":null},
+			{"synset":[],"dich":null,"v":"sichten","ich":null},
+			{"synset":[],"dich":null,"v":"beäugen","ich":null},
+		
+		** genau prüfen, genau untersuchen
+			{"synset":[],"dich":null,"v":"studieren","ich":null},
+	
+	
+		** 2 oder mehrere Sachen zusammenfügen
+			{"synset":[],"dich":null,"v":"addieren","ich":null},
+			{"synset":[],"dich":null,"v":"hinzuaddieren","ich":null},
+			{"synset":[],"dich":null,"v":"aufsummieren","ich":null},
+			{"synset":[],"dich":null,"v":"kumulieren","ich":null},
+			{"synset":[],"dich":null,"v":"summieren","ich":null},
+			{"synset":[],"dich":null,"v":"zusammenaddieren","ich":null},
+			{"synset":[],"dich":null,"v":"zusammenzählen","ich":null},
+	
+	
+	
+	
+		** neu anlegen
+			{"ich":null,"dich":null,"v":"ausstellen","synset":[]},
+			
+			{"ich":null,"dich":"Attest","ihm":null,"v":"ausstellen","synset":[]},
+	
+			{"ich":null,"dich":"Ausweis","v":"ausstellen","synset":[]},
+	
+			{"ich":null,"dich":"Bescheid","v":"ausstellen","synset":[]},
+	
+			{"ich":null,"dich":"Bescheinigung","ihm":null,"v":"ausstellen","synset":[]},
+	
+			{"ich":null,"dich":"Bestätigung","v":"ausstellen","synset":[]},
+	
+			{"ich":null,"dich":"Erlaubnis","ihm":null,"v":"ausstellen","synset":[]},
+	
+	
+	
+		** Dokumentation von etwas
+			{"ich":null,"dich":null,"ihm":null,"v":"attestieren","synset":[]},
+			{"ich":null,"dich":"Attest","ihm":null,"v":"ausstellen","synset":[]},
+	
+			{"ich":null,"dich":"Bescheid","v":"ausstellen","synset":[]},
+			{"ich":null,"dich":"Bescheinigung","ihm":null,"v":"ausstellen","synset":[]},
+	
+	
+		** Informationen erfragen
+			{"synset":[],"dich":null,"v":"anfragen","ich":null},
+			{"synset":[],"dich":null,"v":"abfragen","ich":null},
+	
+			{"synset":[],"dich":"Info","v":"abfragen","ich":null},
+			{"synset":[],"dich":"Information","v":"abfragen","ich":null},	
+	
+	
+	
+		** Genehmigung / Versagung (z. B. Anträgen)
+			*** Genehmigung / Zustimmung
+				{"ich":null,"dich":"Bestätigung","ihm":null,"v":"erteilen","synset":[]},
+				{"ich":null,"dich":"Bestätigung","ihm":null,"v":"geben","synset":[]},
+	
+				{"ich":null,"dich":"Erlaubnis","ihm":null,"v":"ausstellen","synset":[]},
+				{"ich":null,"dich":"Erlaubnis","ihm":null,"v":"erteilen","synset":[]},
+				{"ich":null,"dich":"Erlaubnis","ihm":null,"v":"geben","synset":[]},
+				{"ich":null,"dich":"Erlaubnis","ihm":null,"v":"gewähren","synset":[]},
+				
+	
+				**** neutral
+					{"synset":[],"dich":null,"v":"akzeptieren","ich":null},
+					{"synset":[],"dich":null,"v":"anerkennen","ich":null},		? öffentlich anerkennen (Regierung anerkennen)
+					{"synset":[],"dich":null,"v":"approbieren","ich":null},
+					{"synset":[],"dich":null,"v":"bewilligen","ich":null},
+					{"synset":[],"dich":null,"v":"bejahen","ich":null},
+					{"synset":[],"v":"einwilligen","in+A":null,"ich":null},
+					{"synset":[],"dich":null,"v":"erlauben","ich":null,"ihm":null},
+					{"synset":[],"dich":null,"v":"gestatten","ich":null,"ihm":null},
+					{"synset":[],"dich":null,"v":"genehmigen","ich":null},
+					{"synset":[],"dich":null,"v":"gewähren","ich":null,"ihm":null},
+					{"synset":[],"v":"stattgeben","ich":null,"ihm":null},
+					{"synset":[],"dich":null,"v":"zuerkennen","ich":null,"ihm":null},
+					{"synset":[],"dich":null,"v":"zusprechen","ich":null,"ihm":null},
+	
+				**** stark zustimmen
+					{"synset":[],"dich":null,"v":"befürworten","ich":null},
+					{"synset":[],"dich":null,"v":"gutheißen","ich":null},
+					{"synset":[],"in":null,"v":"zustimmen","ich":null,"ihm":null},
+	
+				**** billigen
+					{"synset":[],"dich":null,"v":"billigen","ich":null},
+					{"synset":[],"dich":null,"v":"zubilligen","ich":null,"ihm":null},
+					{"synset":[],"dich":null,"v":"zugestehen","ich":null,"ihm":null},
+					{"synset":[],"dich":null,"v":"zulassen","ich":null},
+					{"synset":[],"dich":null,"v":"dulden","ich":null},
+	
+				**** gerichtlich
+					{"synset":[],"dich":null,"v":"zusprechen","ich":null,"ihm":null},
+					{"synset":[],"dich":null,"v":"anerkennen","ich":null},
+					{"synset":[],"dich":null,"v":"genehmigen","ich":null},
+					{"synset":[],"dich":null,"v":"zuerkennen","ich":null,"ihm":null},
+	
+			*** Ablehnung
+				{"ich":null,"dich":null,"v":"ablehnen","synset":[]},
+				{"ich":null,"dich":null,"v":"abweisen","synset":[]},
+				{"ich":null,"dich":null,"v":"ausschlagen","synset":[]},
+				{"synset":[],"dich":null,"v":"verneinen","ich":null},
+				{"synset":[],"dich":null,"v":"verwehren","ich":null,"ihm":null},
+				{"synset":[],"dich":null,"v":"verweigern","ich":null,"ihm":null},
+				{"synset":[],"dich":null,"v":"versagen","ich":null,"ihm":null},
+				{"synset":[],"dich":null,"v":"zurückweisen","ich":null},
+	
+	
+	
+			*** Verbot
+				{"ich":null,"dich":null,"ihm":null,"v":"untersagen","synset":[]},
+				{"ich":null,"dich":null,"ihm":null,"v":"verbieten","synset":[]},
+	
+	
+			*** Aberkennung / etwas wegnehmen / nicht mehr geltend machen
+				{"synset":[],"dich":null,"v":"aberkennen","ich":null,"ihm":null},
+				{"synset":[],"dich":null,"v":"entziehen","ich":null,"ihm":null},
+				{"synset":[],"dich":null,"v":"widerrufen","ich":null},
+				{"aus+D/von+D":null,"synset":[],"dich":null,"v":"zurückziehen","ich":null},
+				{"synset":[],"dich":null,"v":"abstreiten","ich":null},
+	
+	
+		** etwas rückgängig machen
+			{"synset":[],"dich":null,"v":"widerrufen","ich":null},
+			{"aus+D/von+D":null,"synset":[],"dich":null,"v":"zurückziehen","ich":null},
+			{"synset":[],"wie":"rückgängig","dich":null,"v":"machen","ich":null},
+	
+	
+		** Dokumente / Daten jemanden zukommen lassen
+			{"ich":null,"dich":"Bescheinigung","ihm":null,"v":"erteilen","synset":[]},
+	
+			{"ich":null,"dich":"Bestätigung","ihm":null,"v":"erteilen","synset":[]},
+			{"ich":null,"dich":"Bestätigung","ihm":null,"v":"geben","synset":[]},
+	
+	
+	
+		** aussortieren / ausmustern
+			{"synset":[],"dich":null,"v":"auslesen","ich":null},
+			{"synset":[],"dich":null,"v":"aussortieren","ich":null},
+			{"synset":[],"dich":null,"v":"ausmustern","ich":null},
+			{"synset":[],"dich":null,"v":"aussondern","ich":null},
+	
+	
+		** verändern / abändern
+			{"synset":[],"dich":null,"v":"ändern","ich":null},
+			{"synset":[],"dich":null,"v":"abändern","ich":null},
+			{"synset":[],"dich":null,"v":"abwandeln","ich":null},
+			{"synset":[],"dich":null,"v":"editieren","ich":null},
+			{"synset":[],"dich":null,"v":"neufassen","ich":null},
+			{"synset":[],"dich":null,"v":"modifizieren","ich":null},
+			{"synset":[],"dich":null,"v":"überarbeiten","ich":null},
+			{"synset":[],"dich":null,"v":"umändern","ich":null},
+			{"synset":[],"dich":null,"v":"umarbeiten","ich":null},
+			{"synset":[],"dich":null,"v":"umarrangieren","ich":null},
+			{"synset":[],"dich":null,"v":"umgestalten","ich":null},
+			{"synset":[],"dich":null,"v":"umwandeln","ich":null},
+			{"synset":[],"dich":null,"v":"variieren","ich":null},
+			{"synset":[],"dich":null,"v":"verändern","ich":null},
+		
+	
+	
+		** auf den neusten Stand bringen / aktuell halten
+			{"synset":[],"dich":null,"v":"aktualisieren","ich":null},
+			{"synset":[],"dich":null,"v":"updaten","ich":null},
+			{"synset":[],"dich":null,"auf+A":{"head":"Stand","j":"aktuell"},"v":"bringen","ich":null},	
+	
+		
+	
+		** anders als erwartet / verschieden / unterscheiden
+			{"synset":[],"v":"abweichen","von+D":null,"ich":null},
+			{"synset":[],"v":"differieren","von+D":null,"ich":null},
+	
+		** strukturieren / ordnen
+			{"synset":[],"dich":null,"v":"aufbauen","ich":null},
+	
+		** Ausgangszustand wiederherstellen
+			{"synset":[],"dich":null,"v":"wiederaufbauen","ich":null},
+	
+		** speichern / aufbewahren
+			{"synset":[],"dich":null,"v":"aufbewahren","ich":null},
+			{"synset":[],"dich":null,"v":"verwahren","ich":null},
+	
+	
+	
+	* etwas mit Personen machen
+		** nicht willkommen
+			{"ich":null,"dich":null,"v":"abweisen","synset":[]},
+			{"synset":[],"dich":null,"v":"zurückweisen","ich":null},
+	
+		** überanstrengen durch Arbeit
+			{"synset":[],"dich":null,"v":"überarbeiten","ich":null},
+	
+		
+		** informieren
+			{"synset":[],"dich":null,"auf+A":{"head":"Stand","j":"aktuell"},"v":"bringen","ich":null},
+	
+		
+		** Mut machen
+			{"synset":[],"dich":null,"v":"zusprechen","ich":null,"ihm":null},
+	
+		** verhaldeln
+			{"synset":[],"v":"handeln","ich":null},
+			{"mit+D":null,"synset":[],"v":"verhandeln","ich":null},
+	
+		** mit einer Frage an jemanden wenden
+			{"synset":[],"dich":null,"v":"anfragen","ich":null},
+			{"synset":[],"dich":null,"v":"erfragen","von+D":null,"ich":null},
+	
+			{"synset":[],"wie":"telefonisch","dich":null,"v":"erfragen","ich":null},
+	
+		** nach Informationen fragen
+			{"synset":[],"dich":"Info","v":"abfragen","ich":null},
+			{"synset":[],"dich":"Information","v":"abfragen","ich":null},
+			{"synset":[],"dich":"Info","v":"erfragen","ich":null},
+			{"synset":[],"dich":"Information","v":"erfragen","ich":null},
+	
+	
+		** Werben für Kunden
+			{"synset":[],"dich":null,"v":"anwerben","ich":null},
+			{"synset":[],"dich":null,"v":"werben","ich":null},
+			{"synset":[],"dich":null,"v":"akquirieren","ich":null},
+			{"synset":[],"dich":null,"v":"einwerben","ich":null},
+	
+		** Werben (militärisch)
+			{"synset":[],"dich":null,"v":"anwerben","ich":null},
+	
+	
+	* etwas mit physischen Objekten (keine Daten, keine Personen) machen
+		** medizinisch
+			** durch Eindrücken in eine weiche Masse nachbilden
+				{"synset":[],"dich":null,"v":"abdrücken","ich":null,"ihm":null},
+	
+			** etwas so drücken, dass der Zustrom von etwas gehemmt wird; abpressen
+				{"synset":[],"dich":null,"v":"abdrücken","ich":null,"ihm":null},
+				{"synset":[],"dich":null,"v":"abklemmen","ich":null},
+	
+		** von einer Klemme lösen
+			{"synset":[],"dich":null,"v":"abklemmen","ich":null},
+	
+	
+		** Sachen im Besitz behalten
+			{"synset":[],"dich":null,"v":"aufbewahren","ich":null},
+			{"synset":[],"dich":null,"v":"verwahren","ich":null},
+	
+		** in Betrieb nehmen
+			{"ich":null,"dich":null,"v":"anmachen","synset":[]},
+			{"ich":null,"dich":null,"v":"anschalten","synset":[]},
+			{"ich":null,"dich":null,"v":"einschalten","synset":[]},
+	
+	
+	
+		** außer Betrieb nehmen
+			*** Betrieb unterbrechen
+				{"ich":null,"dich":null,"v":"abschalten","synset":[]},
+				{"ich":null,"dich":null,"v":"ausschalten","synset":[]},
+				{"ich":null,"dich":null,"v":"ausstellen","synset":[]},
+	
+	
+	
+			*** endgültig außer Betrieb nehmen
+	
+	
+	
+		** Ortswechsel durchführen
+			{"ich":null,"dich":null,"v":"weghängen","synset":[]},
+	
+			{"ich":null,"dich":null,"v":"abheften","synset":[]},
+			{"ich":null,"dich":null,"v":"einheften","in+A":null,"synset":[]},
+			{"ich":null,"dich":null,"v":"wegheften","synset":[]},
+	
+			** exportieren
+				{"synset":[],"dich":null,"v":"ausführen","ich":null},
+				{"synset":[],"dich":null,"v":"exportieren","ich":null},
+	
+			** importieren
+				{"synset":[],"dich":null,"v":"importieren","ich":null},
+				
+			
+	
+	
+		** schließen / geschlossen lassen
+			{"synset":[],"dich":null,"v":"zulassen","ich":null},
+	
+	
+		** physisches Objekt wegnehmen
+			{"synset":[],"dich":null,"v":"entziehen","ich":null,"ihm":null},
+	
+	
+		** ändern / anders werden
+			{"synset":[],"dich":null,"v":"ändern","ich":null},
+			{"synset":[],"dich":null,"v":"abwandeln","ich":null},
+			{"synset":[],"dich":null,"v":"modifizieren","ich":null},
+			{"synset":[],"dich":null,"v":"überarbeiten","ich":null},
+			{"synset":[],"dich":null,"v":"umändern","ich":null},
+			{"synset":[],"dich":null,"v":"umarbeiten","ich":null},
+			{"synset":[],"dich":null,"v":"umarrangieren","ich":null},
+			{"synset":[],"dich":null,"v":"umgestalten","ich":null},	
+			{"synset":[],"dich":null,"v":"umwandeln","ich":null},
+			{"synset":[],"dich":null,"v":"variieren","ich":null},
+			{"synset":[],"dich":null,"v":"verändern","ich":null},
+	
+			*** entfernen / zerstören / wegnehmen
+				{"ich":null,"dich":null,"v":"abbauen","synset":[]},
+				{"ich":null,"dich":null,"v":"demontieren","synset":[]},
+				{"synset":[],"dich":null,"v":"abmontieren","ich":null},
+	
+			*** hinzufügen / aufbauen / neumachen
+				{"synset":[],"dich":null,"v":"aufbauen","ich":null},
+				{"synset":[],"dich":null,"v":"anmontieren","ich":null},
+				{"synset":[],"dich":null,"v":"montieren","ich":null},
+	
+			*** zum Ausgangszustand bringen
+				{"synset":[],"dich":null,"v":"wiederaufbauen","ich":null},
+				
+	
+			*** erneuern
+				{"synset":[],"dich":null,"v":"neufassen","ich":null},
+	
+			
+		** zur Verfügung stellen / anbieten
+			{"synset":[],"dich":null,"v":"anbieten","ich":null,"ihm":null},
+			{"synset":[],"dich":null,"v":"offerieren","ich":null,"ihm":null},
+			{"synset":[],"dich":null,"v":"stellen","zu+D":"Verfügung","ich":null,"ihm":null},
+			{"synset":[],"v":"stehen","zu+D":"Verfügung","ich":null,"ihm":null},
+	
+		** zum Verkauf anbieten
+			{"synset":[],"dich":null,"v":"anbieten","ich":null,"ihm":null},
+			{"synset":[],"dich":null,"v":"offerieren","ich":null,"ihm":null},
+	
+		
+	
+		** Kaufen
+			{"synset":[],"dich":null,"v":"hinzukaufen","ich":null},
+			{"synset":[],"dich":null,"v":"kaufen","ich":null},
+			{"synset":[],"dich":null,"v":"nachkaufen","ich":null},
+			{"synset":[],"dich":null,"v":"wegkaufen","ich":null},
+			{"synset":[],"dich":null,"v":"wiederkaufen","ich":null},
+			{"synset":[],"dich":null,"v":"zukaufen","ich":null},
+			{"synset":[],"dich":null,"v":"zusammenkaufen","ich":null},
+			{"synset":[],"dich":null,"v":"abkaufen","ich":null,"ihm":null},
+			{"synset":[],"dich":null,"v":"aufkaufen","ich":null},
+			{"synset":[],"dich":null,"v":"dazukaufen","ich":null},
+			{"synset":[],"dich":null,"v":"einkaufen","ich":null},
+	
+			{"synset":[],"dich":null,"v":"ankaufen","ich":null},
+	
+		** Verkaufen
+			{"synset":[],"dich":null,"v":"verkaufen","an+A/ihm":null,"ich":null},
+			{"synset":[],"dich":null,"v":"weiterverkaufen","ich":null},
+			{"p":"verkauft","synset":[],"v":"werden","von+D":null,"ich":null},
+	
+			{"synset":[],"dich":null,"v":"verkaufen","in+A":"Ausland","ich":null},
+	
+		** Handeln
+			{"synset":[],"v":"handeln","ich":null},
+			{"mit+D":null,"synset":[],"v":"verhandeln","ich":null},
+			{"synset":[],"dich":null,"v":"aushandeln","ich":null},
+			{"synset":[],"dich":null,"v":"ausverhandeln","ich":null},
+			{"synset":[],"dich":null,"v":"herunterhandeln","ich":null},
+			{"synset":[],"dich":null,"v":"runterhandeln","ich":null},
+			
+		** Preis senken
+			{"synset":[],"für+A":null,"dich":"Preis","v":"senken","ich":null},
+			{"synset":[],"dich":"Preisnachlass","v":"gewähren","ich":null,"ihm":null},
+			
+			{"synset":[],"dich":null,"v":"rabattieren","ich":null},
+			{"synset":[],"dich":"Rabatt","v":"geben","ich":null,"ihm":null},
+			{"synset":[],"dich":"Rabatt","v":"gewähren","ich":null,"ihm":null},
+	
+		** Quittung / Rechnung geben
+			{"synset":[],"dich":"Quittung","v":"erteilen","ich":null,"ihm":null},
+			{"synset":[],"dich":"Quittung","v":"ausstellen","ich":null},
+			{"synset":[],"dich":"Quittung","v":"schreiben","ich":null},
+			{"synset":[],"dich":"Rechnung","v":"stellen","ich":null,"ihm":null},
+			{"synset":[],"dich":"Rechnung","v":"ausstellen","ich":null},
+			{"synset":[],"dich":null,"v":"stellen","in+A":"Rechnung","ich":null,"ihm":null},
+	
+			{"synset":[],"dich":"Rechnung","v":"erhalten","ich":null},
+	
+		** Werben
+			{"synset":[],"dich":null,"v":"einwerben","ich":null},
+			{"synset":[],"dich":null,"v":"werben","ich":null},
+			
+	
+		** bezahlen
+			*** direkt bezahlen, volle Summe
+				{"synset":[],"dich":"Rechnung","v":"begleichen","ich":null},
+				{"synset":[],"dich":null,"v":"bezahlen","ich":null,"ihm":null},
+				{"synset":[],"dich":null,"v":"zurückbezahlen","ich":null,"ihm":null},
+				{"synset":[],"dich":null,"v":"selbstzahlen","ich":null},
+				{"synset":[],"ihm/an+A":null,"v":"rückzahlen","ich":null},
+				{"synset":[],"dich":null,"v":"zurückzahlen","ich":null,"ihm":null},
+				{"synset":[],"für+A":null,"dich":null,"v":"zahlen","ich":null},
+				{"synset":[],"dich":"Vergütung","v":"zahlen","an+A/ihm":null,"ich":null},
+				{"synset":[],"dich":"Zahlung","v":"abwickeln","ich":null},
+				{"synset":[],"v":"nachkommen","ich":null,"ihm":"Zahlung"},
+	
+			*** zustehende Summe auszahlen
+				{"synset":[],"dich":null,"v":"ausbezahlen","ich":null},
+				{"synset":[],"dich":"Geld","v":"auszahlen","ich":null},
+				{"synset":[],"dich":null,"v":"auszahlen","ich":null},
+				{"synset":[],"dich":"Vergütung","v":"zahlen","an+A/ihm":null,"ich":null},
+	
+			*** in Teilbeträge
+				{"synset":[],"dich":null,"v":"abbezahlen","ich":null},
+				{"synset":[],"dich":null,"v":"abzahlen","ich":null},
+				{"synset":[],"dich":null,"v":"zahlen","ich":null,"in+D":"Rate"},
+	
+			*** Summe nachträglich zahlen
+				{"synset":[],"dich":null,"v":"nachbezahlen","ich":null},
+				{"synset":[],"dich":null,"v":"nachzahlen","ich":null},
+	
+			*** Teilsumme vorher bezahlen
+				{"synset":[],"dich":null,"v":"vorauszahlen","ich":null},
+				{"synset":[],"dich":null,"v":"anzahlen","ich":null},
+				{"synset":[],"dich":"Vorschuss","v":"auszahlen","ich":null},
+	
+			*** Entschädigung zahlen
+				{"synset":[],"dich":"Entschädigung","v":"auszahlen","an+A/ihm":null,"ich":null},
+	
+				{"synset":[],"dich":"Schadenersatz","v":"zahlen","an+A/ihm":null,"ich":null},
+	
+	
+			*** Geld hinzufügen
+				{"synset":[],"dich":null,"v":"zuzahlen","ich":null},
+				{"synset":[],"dich":null,"v":"dazuzahlen","ich":null},
+				{"synset":[],"dich":null,"v":"draufzahlen","ich":null},
+				{"synset":[],"dich":null,"v":"aufzahlen","ich":null},
+	
+			*** für jemand anderen bezahlen
+				{"synset":[],"für+A":null,"dich":null,"v":"mitbezahlen","ich":null},
+				{"synset":[],"für+A":null,"dich":null,"v":"zahlen","ich":null},
+	
+			{"synset":[],"wie":"regelmäßig","v":"zahlen","ich":null},
+	
+			{"synset":[],"dich":"Zoll","v":"bezahlen","ich":null},
+	
+	
+		** etwas mit dem Konto machen
+			{"synset":[],"dich":null,"v":"einzahlen","ich":null},
+	
+			{"synset":[],"dich":"Geld","v":"auszahlen","ich":null},
+			{"synset":[],"dich":null,"v":"auszahlen","ich":null},
+	
+		** physische Dokumente anschaun
+			{"synset":[],"dich":null,"v":"ansehen","ich":null},
+			{"synset":[],"dich":null,"v":"anschauen","ich":null},
+			{"synset":[],"dich":null,"v":"betrachten","ich":null},
+			{"synset":[],"dich":null,"v":"durchsehen","ich":null},
+			{"synset":[],"dich":null,"v":"durchblättern","ich":null},
+			{"synset":[],"dich":null,"v":"sichten","ich":null},
+			{"synset":[],"dich":null,"v":"beäugen","ich":null},
+	
+	
+		** etwas mit einem Gebäude / Raum machen
+			*** anschauen
+				{"synset":[],"dich":null,"v":"ansehen","ich":null},
+				{"synset":[],"dich":null,"v":"anschauen","ich":null},
+				{"synset":[],"dich":null,"v":"besichtigen","ich":null},
+				{"synset":[],"dich":null,"v":"betrachten","ich":null},
+				{"synset":[],"dich":null,"v":"durchsehen","ich":null},
+				{"synset":[],"dich":null,"v":"sichten","ich":null},
+				{"synset":[],"dich":null,"v":"beäugen","ich":null},
+	
+	
+			
+	
+	* etwas mit etwas nicht-physischem machen (Zielen / Prinzipien / Entscheidungen / Prozesse etc.)
+		** Lehrgang, etwas im Werdegang
+			{"synset":[],"mich":"mich","v":"unterziehen","ich":null,"ihm":"Ausbildung"},
+			{"synset":[],"dich":"Ausbildung","v":"erfahren","ich":null},
+			{"synset":[],"dich":"Ausbildung","v":"erhalten","ich":null},
+	
+			{"synset":[],"dich":"Studium","v":"antreten","ich":null},
+			{"synset":[],"dich":"Studium","v":"aufnehmen","ich":null},
+	
+			{"synset":[],"dich":null,"v":"immatrikulieren","ich":null},
+	
+			{"synset":[],"dich":"Studium","v":"betreiben","ich":null},
+			{"synset":[],"dich":null,"v":"studieren","ich":null},
+			{"synset":[],"dich":null,"v":"ausüben","ich":null},
+	
+			{"synset":[],"dich":null,"v":"absolvieren","ich":null},
+	
+			{"synset":[],"dich":"Beruf","v":"ergreifen","ich":null},
+			{"synset":[],"dich":"Berufstätigkeit","v":"aufnehmen","ich":null},	
+	
+			{"synset":[],"v":"nachgehen","ich":null,"ihm":"Beruf"},
+			{"synset":[],"dich":"Beruf","v":"ausüben","ich":null},
+			{"synset":[],"dich":null,"v":"ausüben","ich":null},
+	
+			{"synset":[],"dich":null,"v":"ausüben","ich":null},
+	
+	
+		** verwirklichen, realisieren (Vorhaben, Plan)
+			{"synset":[],"dich":null,"v":"ausführen","ich":null},
+			{"synset":[],"dich":null,"v":"ausüben","ich":null},
+			{"synset":[],"dich":null,"v":"durchführen","ich":null},
+	
+	
+		** Auftrag gemäß, vollziehen, erledigen
+			{"synset":[],"dich":null,"v":"ausführen","ich":null},
+			{"synset":[],"dich":null,"v":"durchführen","ich":null},
+	
+	
+		** etwas in Einzelheiten ausarbeiten und vollenden
+			{"synset":[],"dich":null,"v":"ausführen","ich":null},
+	
+		
+		** mündlich oder schriftlich erläutern
+			{"synset":[],"dich":null,"v":"ausführen","ich":null},
+		
+	
+		** stattfinden lassen veranstalten (Sammlung / Zählung)
+			{"synset":[],"dich":null,"v":"durchführen","ich":null},
+		
+	
+	
+		** mit Nachdruck protestieren / zurückweisen
+			{"synset":[],"dich":null,"v":"verwahren","ich":null},
+			{"synset":[],"dich":null,"v":"ableugnen","ich":null},
+			{"synset":[],"dich":null,"v":"abstreiten","ich":null},
+			{"synset":[],"dich":null,"v":"bestreiten","ich":null},
+			{"synset":[],"dich":null,"v":"leugnen","ich":null},
+	
+		** Zweifel haben
+			{"synset":[],"dich":null,"v":"anzweifeln","ich":null},
+			{"synset":[],"dich":null,"v":"bezweifeln","ich":null},
+			{"synset":[],"v":"auftreten","ich":"Zweifel"},
+			{"synset":[],"dich":"Zweifel","v":"erheben","gegen+A":null,"ich":null},
+			{"synset":[],"v":"geraten","in+A":"Zweifel","ich":null},
+			{"synset":[],"v":"geraten","in+A":"Zweifeln","ich":null},
+			{"synset":[],"v":"zweifeln","an+D":null,"ich":null},
+	
+		** keine Zweifel haben
+			{"synset":[],"v":"stehen","außer+D":"Zweifel","ich":null},
+			{"synset":[],"dich":"Glauben","v":"schenken","ich":null,"ihm":null},
+	
+	
+	
+		** zeitliche Dauer beschrieben
+			*** längere Zeit
+				{"synset":[],"v":"andauern","ich":null},
+				{"syns
